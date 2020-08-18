@@ -1,5 +1,8 @@
 {
-    "domain": "sonoff",
-    "name": "Sonoff eWelink",
-    "documentation": "https://github.com/dreamzonne/HASS-sonoff-ewelink/"
+  "domain": "sonoff",
+  "name": "Sonoff eWelink",
+  "documentation": "https://github.com/dreamzonne/HASS-sonoff-ewelink/blob/hacs/README.md",
+  "dependencies": [],
+  "codeowners": ["@peterbuga"],
+  "requirements": []
 }
