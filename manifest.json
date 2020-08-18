@@ -1,0 +1,5 @@
+{
+    "domain": "sonoff",
+    "name": "Sonoff eWelink",
+    "documentation": "https://github.com/dreamzonne/HASS-sonoff-ewelink/"
+}
